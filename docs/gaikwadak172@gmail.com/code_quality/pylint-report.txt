@@ -1,0 +1,9 @@
+************* Module task25
+task25.py:3:0: C0305: Trailing newlines (trailing-newlines)
+task25.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+task25.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+task25.py:1:0: C0103: Function name "percentToDecimal" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+
